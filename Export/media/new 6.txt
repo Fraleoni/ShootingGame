@@ -1,0 +1,27 @@
+sin(x)+sqrt(3)*sin(x/2)=0
+
+// BISEZIONE
+sin x/2 = +- sqrt((1-cos(X))/2)
+
+sin(x)= +-sqrt(3)*sqrt((1-cos(x))/2) 
+sin(x)= sqrt(3)*sqrt((1-cos(x))/2)
+
+2*sin^2(x) - 3*(1-cos(x)) = 0
+2*(1-cos2(x)) - 3*(1-cos(x)) =0
+2-2cos2(x) - 3+3cos(x) =0
+2-2*cos(x)^2 - 3+3*cos(x) =0
+2t2 -3t +1 = 0 
+
+cosx=1
+
+m0nst3r69
+Monster
+
+https://www.facebook.com/Conserlab-Sardegna-Srl-
+327937
+syslog
+M1&lano
+
+
+
+
